@@ -19,6 +19,7 @@ Player One controls are:
 * W: Move forward
 * S: Move in reverse
 * Space: Fire weapon
+
 Player Two controls are:
 * Left Arrow: Rotate left
 * Right Arrow: Rotate right
