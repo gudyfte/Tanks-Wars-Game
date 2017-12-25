@@ -11,7 +11,7 @@ Command line instructions to compile and execute tank game:
 2nd step: java TanksGame/tanksGame
 
 How to play the game:
-This game is a two player game. Both players can play from the same computer.
+This game is a two player game. Both players can play from the same computer.Player one represents first tank. Player two represents second tank.
 
 Player One controls are:
 * A: Rotate left
