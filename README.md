@@ -27,4 +27,4 @@ Player Two controls are:
 * Down Arrow: Move in reverse
 * Return: Fire weapon
 
-Please open above documentation.docx for more details about this game!
+Please open above documentation.docx I attached for more details about this game!
