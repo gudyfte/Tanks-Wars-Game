@@ -5,7 +5,8 @@ In the first github repository, I provided six java files which were called tank
 The program can be compiled and executed on the command prompt.
 
 Command line instructions to compile and execute tank game:
-1st step: javac TanksGame/MapBackground.java TanksGame/TankBullet.java TanksGame/Walls.java TanksGame/DrawWalls.java TanksGame/Tank.java TanksGame/tanksGame.java
+
+1st step: javac TanksGame/MapBackground.java TanksGame/TankBullet.java TanksGame/Walls.java TanksGame/DrawWalls.java TanksGame/Tank.java             TanksGame/tanksGame.java
 
 2nd step: java TanksGame/tanksGame
 
