@@ -1,7 +1,5 @@
 This game is developed in Java. This game is about two players control two tanks to fire each other on the same computer keyboard.
 
-In the github repository, I provided six java files which were called tanksGame.java, TankBullet.java, MapBackground.java, Walls.java, DrawWalls.java, and Tank.java. These six java files were saved in the TanksGame folder. The tanksGame class provided main function which could compile the program for the tank game. There were other two java files, which were called KeyboardControl.java and KeyboardEvents.java, were saved in the TanksGame/GameKeyControl folder. There were many png files and wav files which were saved in the TanksGame/Pictures folder. These png files and wav files were used in the tanksGame code. The implementation of tanksGame was to upload png files, upload wav files, place images on the game screen, and compile and execute the program for this game.
-
 The program can be compiled and executed on the command prompt.
 
 Command line instructions to compile and execute tank game:
@@ -26,5 +24,7 @@ Player Two controls are:
 * Up Arrow: Move forward
 * Down Arrow: Move in reverse
 * Return: Fire weapon
+
+In this game, each tank has two lives opportunities. The bullet is tank's weapon. Player one and Player Two can press the key "Space" and the key "Return" to control two tanks to launch bullets to fire each other. When first tank's bullets hit second tank, first tank's scores will be increased. If first tank defeats second tank, second tank will only remain one life opportunity. The game will be started automatically. If second tank doesn't have remaining life in the game, the game will be finished and the game screen will display first tank's scores.
 
 Please open above documentation.docx I attached for more details about this game!
