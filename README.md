@@ -12,6 +12,7 @@ Command line instructions to compile and execute tank game:
 
 How to play the game:
 This game is a two player game. Both players can play from the same computer.
+
 Player One controls are:
 * A: Rotate left
 * D: Rotate right
