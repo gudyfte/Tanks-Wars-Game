@@ -1,4 +1,4 @@
-This game is developed in Java. This game is about two players control two tanks to fire each other on the same computer keyboard.
+This game is developed in Java. This game is about two tanks fire each other. This game is a two player game. Both players can play from the same computer. Player one represents first tank. Player two represents second tank.
 
 In the github repository, I provided six java files which were called TankBullet.java, MapBackground.java, Walls.java, DrawWalls.java, Tank.java, and tanksGame.java. These six java files were saved in the TanksGame folder. The tanksGame.java provided main function which can compile the program for the tank game. There were many png files and wav files which were saved in the TanksGame/Pictures folder. These png files and wav files were used in the tanksGame code. There were other two java files, which were called KeyboardControl.java and KeyboardEvents.java,were saved in the TanksGame/GameKeyControl folder. The implementation of this game project was to upload png files, upload wav files, place images on the game map, play music and allow players to control two tanks from keyboard when the game is begun.
 
@@ -10,8 +10,7 @@ Command line instructions to compile and execute tank game:
 
 2nd step (execute program): java TanksGame/tanksGame
 
-How to play the game:
-This game is a two player game. Both players can play from the same computer. Player one represents first tank. Player two represents second tank.
+How to play the game: Both players use same computer keyboard to control two tanks.
 
 Player One controls are:
 * A: Rotate left
