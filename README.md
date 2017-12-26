@@ -26,6 +26,6 @@ Player Two controls are:
 * Down Arrow: Move in reverse
 * Return: Fire weapon
 
-In this game, each tank has two lives opportunities. The bullet is tank's weapon. Player one and Player Two can press the key "Space" and the key "Return" to control two tanks to launch bullets to fire each other. When first tank's bullets hit second tank, first tank's scores will be increased. If first tank defeats second tank, second tank will only remain one life opportunity. The game will be started automatically. If second tank doesn't have remaining life in the game, the game will be finished and the game screen will display first tank's scores.
+In this game, each tank has two lives opportunities. The bullet is tank's weapon. Player one and Player Two can press the key "Space" and the key "Return" to control two tanks to launch bullets to fire each other. When first tank's bullets hit second tank, first tank can get ten scores. If first tank defeats second tank, second tank will only remain one life opportunity. The game will be started automatically. If second tank doesn't have remaining life in the game, the game will be finished and the game screen will display first tank's scores.
 
 Please open above documentation.docx I attached for more details about this game!
