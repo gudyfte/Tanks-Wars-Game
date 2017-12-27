@@ -1,4 +1,4 @@
-This game is developed in Java. This game is about two tanks fire each other. This game is a two player game. Both players play from the same computer. Player one represents first tank. Player two represents second tank.
+This game is developed in Java. This game is about two tanks fire each other. This game is a two player game. Player one represents first tank. Player two represents second tank. Both players play from the same computer.
 
 The program can be compiled and executed on the command prompt.
 
