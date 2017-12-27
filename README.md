@@ -1,4 +1,4 @@
-This game is developed in Java. This game is about two tanks fire each other. This game is a two player game. Both players can play from the same computer. Player one represents first tank. Player two represents second tank.
+This game is developed in Java. This game is about two tanks fire each other. This game is a two player game. Both players play from the same computer. Player one represents first tank. Player two represents second tank.
 
 The program can be compiled and executed on the command prompt.
 
@@ -24,6 +24,6 @@ Player Two controls are:
 * Down Arrow: Move in reverse
 * Return: Fire weapon
 
-In this game, each tank has two lives opportunities. The bullet is tank's weapon. Player one and Player Two can press the key "Space" and the key "Return" to control two tanks to launch bullets to fire each other. If first tank's bullets hit second tank for each time, first tank can get ten scores. If first tank defeats second tank, second tank will only remain one life opportunity. The game will be started automatically. If second tank doesn't have remaining life in the game, Player one will win the game and the game will be finished. The game screen will also display first tank's scores.
+In this game, each tank has two lives opportunities. The bullet is tank's weapon. Player one and Player Two should press the key "Space" and the key "Return" to control two tanks to launch bullets to fire each other. If first tank's bullets hit second tank for each time, first tank can get ten scores. If first tank defeats second tank, second tank will only remain one life opportunity. The game will be started automatically. If second tank doesn't have remaining life in the game, Player one will win the game and the game will be finished. The game screen will also display first tank's scores.
 
 Please open above documentation.docx I attached for more details about this game!
